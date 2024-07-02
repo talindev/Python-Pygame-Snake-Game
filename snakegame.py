@@ -5,7 +5,7 @@ import random
 # inicializar pygame
 pygame.init()
 
-# declações dos limites de espaço
+# declarações dos limites de espaço
 SCREEN_WIDTH = 1000
 SCREEN_HEIGHT = 1000
 FOOD_X = random.randint(1,SCREEN_WIDTH - 50)
